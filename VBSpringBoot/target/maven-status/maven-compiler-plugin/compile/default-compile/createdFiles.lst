@@ -1,0 +1,10 @@
+com\vb\sbstarter\topic\TopicRepository.class
+com\vb\sbstarter\topic\TopicController.class
+com\vb\sbstarter\controller\HelloController.class
+com\vb\sbstarter\course\CourseRepository.class
+com\vb\sbstarter\topic\Topic.class
+com\vb\sbstarter\course\CourseService.class
+com\vb\sbstarter\course\CourseController.class
+com\vb\sbstarter\VBApiApp.class
+com\vb\sbstarter\topic\TopicService.class
+com\vb\sbstarter\course\Course.class
